@@ -1,4 +1,8 @@
-#игнорирование каталога out
+Thumbs.db*
+.DS_Store*
+HELP.md
+.gradle
 out/
 .idea/
+build/
 target/
